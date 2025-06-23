@@ -18,6 +18,18 @@
 
 [Stream Buffers](https://gcc.gnu.org/onlinedocs/libstdc++/manual/streambufs.html#io.streambuf.buffering)
 
+[CLASSES vs STRUCTS in C++](https://www.youtube.com/watch?app=desktop&v=fLgTtaqqJp0&t=447s)
+
+[Have functions inside a struct in C using function pointers? ](https://www.reddit.com/r/learnprogramming/comments/pe3a5c/have_functions_inside_a_struct_in_c_using/)
+
+[Can a struct be inherited in C++?](https://stackoverflow.com/questions/979211/struct-inheritance-in-c)
+
+[Why C/C++ Variables Can't Start with Numbers](https://www.tutorialspoint.com/why-c-cplusplus-variables-doesn-t-start-with-numbers)
+
 ## Projetos
 
 [NES Emulator From Scratch](https://www.youtube.com/playlist?list=PLrOv9FMX8xJHqMvSGB_9G9nZZ_4IgteYf)
+
+[Absolute Beginners Guide To "olcConsoleGameEngine.h"](https://www.youtube.com/watch?v=u5BhrA8ED0o)
+
+[Code-It-Yourself! 3D Graphics Engine Part #1 - Triangles & Projection ](https://www.youtube.com/watch?v=ih20l3pJoeU)
